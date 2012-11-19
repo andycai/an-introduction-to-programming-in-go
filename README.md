@@ -1,4 +1,9 @@
-an-introduction-to-programming-in-go
-====================================
+# 《Go编程入门》
+很久没有翻译一些东西了，记得以前翻译过actionscript、joomla和jquery等方面的书，但都是业余翻译，没有真正的出版，而且也只能业余玩玩:)，刚好看到一本人家写的好书http://www.golang-book.com/，而且人家也是免费提供的，我也想给自己英语练练手。
 
-An Introduction To Programming In Go
+我希望以后能有机会真正自己写一本书，现在只能业余玩玩，也可以跟其他人分享，这是很不错的事情。
+
+Go语言是到目前为止我见过的最舒服（不知道怎么形容，只能用舒服）的语言，之前学ruby和python也有过，只是Go是更强烈了，他是Google支持，而且是有Ken Thompson和Rob Pike开发的，这已经加了不少分了，我想以后我使用最多的应该会是Go语言来编程。
+
+把书放到Github上面挺方便的，有版本控制，有时间就写一点，我使用Markdown格式和编辑器 MarkdownPad来编写，其实完全可以使用任何的编辑器，包括最原始的Windows自带的记事本（Note pad）。
+
