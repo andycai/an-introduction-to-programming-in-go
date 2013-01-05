@@ -11,4 +11,4 @@ Go语言是到目前为止我见过的最舒服（不知道怎么形容，只能
 
 ## 开始阅读
 
-[开始阅读吧](<https://github.com/andycai/an-introduction-to-programming-in-go/blob/master/00.md>)
+[开始阅读吧](<an-introduction-to-programming-in-go/blob/master/00.md>)
